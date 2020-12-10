@@ -1,5 +1,5 @@
-function Cat(age){
-	this.age = age;
+function Cat(){
+	this.stomach = [];
 }
 
 module.exports = Mouse;
