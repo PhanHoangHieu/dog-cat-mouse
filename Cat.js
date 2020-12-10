@@ -1,3 +1,3 @@
-function Cat(){
-	
+function Cat(age){
+	this.age = age;
 }
